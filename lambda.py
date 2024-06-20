@@ -1,3 +1,2 @@
-def add( num ):  
-   return num + 4  
-print( add(2) )  
+a = lambda x, y : (x * y)  
+print(a(4,2))  
